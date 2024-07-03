@@ -1,7 +1,8 @@
-{
-“key”: “BR”,
-“latitude”: -2.009556,
-“longitude”: -54.070361,
-“name”: “BGP HW IPTLC NE8000”
-}
-
+[
+  {
+    "key": "IP",
+    "latitude": -22.9068,
+    "longitude": -43.1729,
+    "name": "BGP HW IPTLC NE8000"
+  }
+]
